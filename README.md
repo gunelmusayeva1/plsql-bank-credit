@@ -118,7 +118,7 @@ The system includes packages, procedures, functions, and automated jobs.</p>
 <h2>🛠️ Tools & Techniques</h2>
 
 <ul>
-  <li><b>Oracle SQL Developer</b></li>
+  <li><b>Oracle PL SQL Developer</b></li>
   <li><b>PL/SQL:</b> Package, Procedure, Function, Cursor, Exception Handling</li>
   <li><b>MERGE</b> (UPSERT)</li>
   <li><b>BULK COLLECT</b></li>
